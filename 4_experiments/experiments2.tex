@@ -1,0 +1,54 @@
+%!TEX root = ../A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.tex
+
+
+\section{Experimental Results}
+
+In this section, we present several experiments that demonstrate the effectiveness of the proposed method. At first, we present the data sets used for the evaluation. Then, we described metrics of evaluation in terms of image matching and keypoint matching. Lastly, we show the results of experiment, and discuss about them.
+
+\subsection{Conducting Experiments}
+\subsubsection{Data Sets}
+We perform our experiments on two data sets. One is, to ensure our work is compatible with existing applications, that we use existing datasets to evaluate the proposed algorithm. Specifically, we do experiments on the database provided by Mikolajczyk et al.\footnote{\url{http://www.robots.ox.ac.uk/~vgg/data/data-aff.html}}\cite{mikolajczyk_comparison_2005}. This database contains eight groups of images with challenging transformations. This can be used to evaluate the effects of image blur, exposure, JPEG compression, combined scale and rotation, and perspective transformations of planar geometry. 
+Also, to evaluate more practical application, we perform experiments our own application data set - i.e. \textit{Seoul Travel Guide}\footnote{\url{http://www.visitseoul.net/}}. This database contains 15-illustrated map images. In this data set, we synthesized the map images by applying several transformations such as rotation, scale, and blur, so that we can evaluate the effects of those transformations. Each of map image is synthesized with rotation changes from $0\degree$ to $360\degree$ at the interval of $10\degree$, with scale changes from $0.5$ to $2.0$ folds at the interval of $0.1$ fold, and with Gaussian blurring $r \in {0, 3, 5, 7}$ pixels. With these transformation, we generate total 36,864 images and use them as training set(16,114 images) and test(16,142 images). As transformation is synthesized, we obtain the transformation matrix and so we can calculate the ground truth information. So, we can test whether the keypoints correspondence is correct or not. 
+
+The images used in the experiments are shown in Fig. \ref{fig:experiments_datasets}
+
+\begin{figure*}[ht!]
+  \centering     %%% not \center
+    \subfloat[A]{\includegraphics[width=0.195\textwidth, height=1.0in]{4_experiments/datasets/graf0}\label{fig:dataset0}}
+    \hfill
+    \subfloat[B]{\includegraphics[width=0.195\textwidth, height=1.0in]{4_experiments/datasets/graf2}\label{fig:dataset2}}
+    \hfill*
+    \subfloat[C]{\includegraphics[width=0.195\textwidth, height=1.0in]{4_experiments/datasets/graf3}\label{fig:dataset3}}
+    \hfill
+    \subfloat[D]{\includegraphics[width=0.195\textwidth, height=1.0in]{4_experiments/datasets/graf6}\label{fig:dataset6}}
+    \hfill
+    \subfloat[E]{\includegraphics[width=0.195\textwidth, height=1.0in]{4_experiments/datasets/graf7}\label{fig:dataset7}}
+    \\
+    \subfloat[Vertically designed maps]{\includegraphics[width=0.45\textwidth]{4_experiments/datasets/map/vert}\label{fig:dataset_map_v}}
+    \hfill
+    \subfloat[Horizontally designed maps]{\includegraphics[width=0.535\textwidth]{4_experiments/datasets/map/9.jpg}\label{fig:dataset_map_h}}
+    \caption{Experiment Data Sets. \textit{Top row:} Five samples of the Oxford data set\cite{mikolajczyk_comparison_2005}, \textit{center and bottom row:} Seoul Travel Guide data set}
+    \label{fig:experiments_datasets}
+\end{figure*}
+
+\subsubsection{Evaluation Metrics}
+In this paper, we evaluate two aspect of keypoint-based matching: image matching(searching) aspect and keypoint matching aspect. In the image matching aspect, we adopt \cite{sivic_efficient_2009} to find matched image. Usually, in the image matching field, receiver operating characteristic curve(ROC curve) is calculated to measure the performance of image matching.
+
+In the keypoint matching aspect, we adopt Mikolajczyk et al.\cite{mikolajczyk_comparison_2005,mikolajczyk_performance_2005}. They proposed to use the metrics of \textit{recall}, \textit{precision}, and \textit{repeatability}. They describe useful characteristics of a feature's performance, and are widely used as standard measures. Especially, with the proposed algorithm, it is assumed that by eliminating ambiguous keypoints, more precise keypoint matching will be performed. So, we prove the assumption by calculating \textit{precision}. The precision, $Precision = \#Correct Matches / \# Putative Matches$\cite{mikolajczyk_performance_2005}, defines the number of correct matches out of the set of putative matches (the inlier ratio). The ratio has significant performance consequences for robust estimation modules that uses feature matches, such as RANSAC\cite{fischler_random_1981}, where execution times increase exponentially as the inlier ratio decreases. 
+
+\subsubsection{Test Setup}
+To evaluate the proposed algorithm, we performed with several detector-descriptor pairs in each datasets. There are several keypoints detectors as shown section 2, we choose two pixel-level corner detectors - FAST\cite{rosten_machine_2006} and AGAST\cite{mair_adaptive_2010}) - and a blob-style detector - SURF\cite{bay_speeded-up_2008}. Then, we selected a vector-based descriptor - SURF - and two binary descriptors - BRISK\cite{leutenegger_brisk:_2011} and FREAK\cite{alahi_freak:_2012}.
+
+To compute putative matches, we use the \textit{nearest neighbor distance ratio (NNDR)} approach\cite{szeliski_computer_????} that has proven to be effective \cite{moreels_evaluation_2007,lowe_distinctive_2004}. NNDR is computed as
+\begin{equation}
+NNDR = \frac{d_1}{d_2} = \frac{|D_A - D_B|}{|D_A - D_C|},
+\end{equation}
+where $d_1$ and $d_2$ are the nearest and second nearest neighbor distance, $D_A$ is the target descriptor, and $D_B$ and $D_C$ are its closest two neighbors. 
+
+To determine the correctness of a match, we use ground truth data to warp keypoints from the first image of the dataset into all remaining images. The warping is achieved by homographies which are provided in the Oxford datasets well as our tour map datasets. Match points that are within 2.5 pixels of each other are assumed to be correct. This threshold was chosen empirically.
+
+The keypoints database is composed of the set of all keypoints($K_{all}, n(K_{all}) = 3,000$) that did not consider the score function and the set of the keypoints($K_{50}, K_{100}, K_{300}, K_{500}$) composed of top 50, 100, 300 and 500 keypoints filtered with respect to the score function($gf(p_i)$). 
+
+\subsection{Experimental Results}
+
+\subsection{Analysis of the Results}

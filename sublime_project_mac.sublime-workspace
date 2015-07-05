@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console.log(message);"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "3_proposed/proposed.tex",
+			"settings":
+			{
+				"buffer_size": 1186,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"unin",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa in packa",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 149.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/1_intro/intro.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/sublime_project_mac.sublime-workspace",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/2_relworks/relworks.tex",
+		"/Users/Jonghoon_Seo/Documents/remove_parallels.sh",
+		"/Users/Jonghoon_Seo/Documents/Programming/openFrameworks/v0.7.4/openFrameworks/apps/[Dissertation]/[LG] Augmented Space/obj/Release/[LG] Augmented Space.Build.CppClean.log",
+		"/Users/Jonghoon_Seo/Documents/Programming/[Smart Office]/[DragShare]/DragShare-Server/bin/kr/dragshare/server/config.properties",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/Jonghoon_Seo/Desktop/test.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/sublime_project_mac.sublime-project",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper/A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.fdb_latexmk",
+		"/Users/Jonghoon_Seo/Google 드라이브/[과제]/[KIST]/paper",
+		"/Users/Jonghoon_Seo/Documents/Programming/[Smart Office]/DragShare Server/src/kr/dragshare/DragShareServer.java",
+		"/Users/Jonghoon_Seo/Documents/Programming/Node.js/stdin.js",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/User/TernJS.sublime-settings",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/User/MyNodeBuild.sublime-build",
+		"/Users/Jonghoon_Seo/Desktop/index.html",
+		"/Users/Jonghoon_Seo/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/5-Experiments/5-Experiments.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/4-Interaction_Design/4-Interaction_Design.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/3-System/3-System.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[KIST]/paper/A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[KIST]/paper/1_intro/intro.tex",
+		"/Users/Jonghoon_Seo/Google 드라이브/[KIST]/paper/2_relworks/relworks.tex",
+		"/Users/Jonghoon_Seo/Documents/Dissertation/dissertation/OpenNUI_Platform__Design_of_Smart_Space_Interaction_Platform.tex",
+		"/Users/Jonghoon_Seo/Documents/dissertation-OpenNUI-Platform/1_Introduction/intro.tex",
+		"/Users/Jonghoon_Seo/Documents/dissertation-OpenNUI-Platform/abstract_kor.tex",
+		"/Users/Jonghoon_Seo/Documents/[KIST]/paper/1_intro/project.sublime-project",
+		"/Users/Jonghoon_Seo/Documents/dissertation-OpenNUI-Platform/untitled.sublime-workspace",
+		"/Users/Jonghoon_Seo/Documents/HelloLatex/HelloTex.tex",
+		"/Users/Jonghoon_Seo/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/Users/Jonghoon_Seo/Documents/Programming/OpenCV/opencv-2.4.7/platforms/ios/cmake/Modules/Platform/iOS.cmake",
+		"/Users/Jonghoon_Seo/Documents/Programming/OpenCV/opencv-2.4.7/platforms/ios/build_framework.py",
+		"/Users/Jonghoon_Seo/Documents/Programming/OpenCV/opencvvv/modules/world/CMakeLists.txt",
+		"/Users/Jonghoon_Seo/Documents/Programming/OpenCV/opencvvv/3rdparty/libjpeg/CMakeLists.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%!TEX root = ../A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.tex\n\n\\section{Related Works}\nIn general, the framework of keypoint matching systems consists of three steps - i.e. the detection-describe-match (DDM) framework\\cite{yu_novel_2012}. \n\n%=====================================================================================================\n\\subsection{Keypoint Detectors}\nThe first step of keypoint matching is keypoint detection, keypoint is used as corner, interest point, or feature. The aim of this study is to extract an interest point which is stable across image transformation. Generally, researches use corner(Harris\\cite{harris_combined_1988}, SUSAN\\cite{smith_susannew_1997}, etc) or center of silent region(SIFT\\cite{lowe_distinctive_2004}, SURF\\cite{bay_speeded-up_2008}, etc) as the interesting point since they are stable and easy to locate and describe\\cite{yu_novel_2012}.\n\n\\subsubsection{Corner Detectors}\nCorners are among the first low-level features used for image matching. Considering corners as intersection of two edges, these features have no spatial extension and, therefore, there is no ambiguity in their location. Moravec\\cite{moravec_obstacle_1980} computes the sum-of-squared-differences between a patch around a candidate corner and patches shifted a small distance in a number of directions. Based on Moravec's, Harris and Stephens\\cite{harris_combined_1988} developed the Harris Corner Detector which is probably one of the most popular corner extraction methods. It is based on the first order Taylor expansion of the second derivative of the local SSD with respect to the shift. Mikolajczyk and Schmid\\cite{mikolajczyk_indexing_2001} proposed an approach to make the Harris detector scale invariant. \nBased on the assumption of affine image deformation, Shi and Tomasi\\cite{shi_good_1994} obtained the same equation by analyzing the optical flow equation proposed by Lucas and Kanade\\cite{lucas_iterative_1981}. Also, other intensity-based corner detectors include the algorithms of Beaudet\\cite{beaudet_rotationally_1978}, which uses the determinant of the Hessian matrix, and Kitchen and Rosenfeld\\cite{kitchen_gray-level_1982}, which measures the change of direction in the local gradient field. \n\nTo avoid costly window or filter operations, examining a small patch of an image to see if it \"looks\" like a corner is proposed. Since second derivatives are not computed, a noise reduction step (such as Gaussian smoothing) is not required. Consequently, these corner detectors are computationally efficient since only a small number of pixels are examined for each corner detected. Smith and Brady proposed so called \"Smallest Uni-value Segment Assimilating Nucleus (SUSAN)\"\\cite{smith_susannew_1997} for corner detection. The brightness of the center pixel, the nucleus, is compared to its circular pixel neighborhood, and the area of the uni-value segment assimilating nucleus(USAN) is computed. Corner and edges can be detected by evaluating this area, or it can also be used for noise reduction. Trajkovic and Hedley\\cite{trajkovic_fast_1998} used a similar idea: the pixel value at the center of a discretized circle is compared to the values on the circle. Based on this idea, Rosten and Drummond proposed \"Features from Accelerated Segment Test (FAST)\"\\cite{rosten_machine_2006} which combines the machine learning approach to speedup the comparison. This method has seen significant performance increase for real-time Computer Vision applications. Also, this method has proven in several applications to be reliable due to high repeatability (see \\cite{rosten_faster_2010}). Some applications which use FAST are, e.g., Klein's PTAM\\cite{klein_parallel_2007} and Taylor's robust feature matching in 2.3 \\si{\\micro\\second} \\cite{taylor_robust_2009}. From this idea, Mair et al., proposed \"Adaptive and Generic Corner Detection Based on the Accelerated Segment Test (AGAST)\" corner detector\\cite{mair_adaptive_2010}. This method generalized FAST corner detector to improve performance even in the generalized environment.\n\n\\subsubsection{Silent Region Detectors}\nInstead of trying to detect corners, one may use local extrema of the responses of certain filters as interest points. In particular, many approaches aim at approximating the Laplacian of a Gaussian(LoG), which, given an appropriate normalization, was shown to be scale invariant if applied at multiple image scales\\cite{lindeberg_scale-space_1994}. Lowe\\cite{lowe_distinctive_2004} obtains scale invariance by convolving the image with a Difference of Gaussians (DoG) kernel at multiple scales, retaining locations which are optima in scale as well as space. DoG is used because it is good approximation for the LoG and much faster to compute. An approximation to DoG has been proposed which, provided that scales are $\\sqrt{2}$ apart, speeds up computation by a factor of about two, compared to the striaghtforward implementation of Gaussian convolution\\cite{crowley_fast_2003}. Scale-space techniques have also been combined with the Harris approach in \\cite{mikolajczyk_indexing_2001} which computes Harris corners at multiple scales and retains only those which are also optima of the LoG response across scales. Also, Hessian detector\\cite{bay_speeded-up_2008} is proposed which is based on efficient-to-compute approximations to the Hessian matrix at different scales.\n\nIn recent years, scale invariance has been extended to consider features which are invariant to affine changes \\cite{mikolajczyk_affine_2002,brown_invariant_2002,schaffalitzky_multi-view_2002}. Affine-invariant detectors provide higher repeatability for large affine distortions\\cite{lowe_distinctive_2004,mikolajczyk_affine_2002}, but are typically expensive to compute\\cite{mikolajczyk_comparison_2005,moreels_evaluation_2007}.\n\n\n% ===================================================================================================\n\\subsection{Keypoint Descriptors}\nThe next process of keypoint matching is constructing a keypoint descriptor for the local patch with regard to the detected keypoint. The aim of this process is to capture the most important and distinctive information content enclosed in the detected keypoints, such that the same structure can be recognized if encountered. To accomplish the distinctiveness in real time, the inherent difficulty lies in balancing two competing goals: high-quality description and low computation requirements. Considered in these aspects, the description algorithms are classified in Real-value based\\cite{lowe_distinctive_2004,ke_pca-sift:_2004,bay_speeded-up_2008} and Binary-value based\\cite{calonder_brief:_2010,leutenegger_brisk:_2011,alahi_freak:_2012,rublee_orb:_2011}.\n\n\\subsubsection{Real-Value based Descriptors}\nThe algorithms in this category rely on feature vector of an image region, where each dimension is a floating-point type (or a discretization of a float excluding binary). These algorithms use image gradients, spatial frequencies, etc. to describe the local image patch and to test for similarity by using the $L^2$ norm, Mahalanobis distance, etc. These descriptors have proven to be effective, and tackle issues such as scale, rotation, viewpoint, or illumination variation. A variety of features derived from the local image intensities have been proposed to derive robust feature descriptors. Early ideas include derivatives for rotationally invariant features\\cite{schmid_local_1997}, derivatives of Gaussians of different order\\cite{freeman_design_1991}, filter banks derived from complex functions \\cite{schaffalitzky_multi-view_2002}, phase information \\cite{carneiro_multi-scale_2003}, and others. Many of these have been evaluated by \\cite{mikolajczyk_performance_2005}. \n\nAmongst the best quality features currently in the literature is the SIFT\\cite{lowe_distinctive_2004}. A 128-dimensional vector is obtained from a grid of histograms of oriented gradient. ItsThe high descriptive power and robustness to illumination and viewpoint changes has rated it as the reference keypoint descriptor for the past decade. However, the high dimensionality of this descriptor makes SIFT prohibitively slow. PCA-SIFT\\cite{ke_pca-sift:_2004} reduced the description vector from 128 to 36 dimensions using principal component analysis. The matching time is reduced, but the time to build the descriptor is increased leading to a small gain in speed and a loss of distinctiveness. The GLOH descriptor\\cite{mikolajczyk_performance_2005} belongs to the family of SIFT-like methods and has been shown to be more distinctive but also more expensive to compute than SIFT.  The robustness to change of viewpoint is improved in \\cite{yu_fully_2009} by simulating multiple deformations to the descriptive patch.\n\nOne of the widely used keypoints at the moment is clearly SURF\\cite{bay_speeded-up_2008}. It has similar matching performances as SIFT but is much faster. It also relies on local gradient histograms. The Haar-wavelet responses are efficiently computed with integral images leading to 64 or 128-dimensional vectors. However, the dimensionality of the feature vector is still too high for large-scale applications such as image retrieval or 3D reconstruction.\n\n\n\\subsubsection{Binary-Value based Descriptors}\nAnother category is binary descriptors. These descriptors have a compact binary representation and limited computational requirements, computing the descriptor directly from pixel-level comparisons. This makes them an attractive solution to many modern applications, especially for mobile platforms where both compute and memory resources are limited. Each bit in the descriptor is the result of one comparison, and the descriptor is built from a set of pairwise intensity comparisons. Because the descriptor is constructed by simple comparison operation, these algorithms provide simple and inexpensive complexity. Also, in this category, Hamming distance (bitwise XOR followed by a bit count) is used to compute a similarity, and it replaces the usual Euclidean distance. So, matching complexity also will be decreased. \n\nThe first approach of this category is \"Binary Robust Independent Elementary Features (BRIEF)\"\\cite{calonder_brief:_2010}. It uses a sampling pattern consisting of 128, 256, or 512 comparisons (equating to 128, 256, or 512 bits), with sample points selected randomly from an isotropic Gaussian distribution centered at the feature location. The obtained descriptor is not invariant to scale and rotation changes unless coupled with detector providing it. Calonder et al. also highlighted in their work that usually orientation detection reduces the recognition rate and should therefore be avoided when it is not required by the target application. Rublee et al. proposed the \"Oriented Fast and Rotated BRIEF (ORB)\" descriptor\\cite{rublee_orb:_2011} to overcome the lack of rotation invariance of BRIEF. The descriptor is not only invariant to rotation, but also robust to noise. The sampling pattern employed in ORB uses 256 pairwise intensity comparisons, but in contrast to BRIEF, is constructed via machine learning, maximizing the descriptor’s variance and minimizing the correlation under various orientation changes. Leutenegger et al. proposed a binary descriptor invariant to scale and rotation so called \"Binary Robust Invariant Scalable Keypoints (BRISK)\"\\cite{leutenegger_brisk:_2011}. To build the descriptor bit-stream, a limited number of points in a symmetric pattern is used. Each point contributes to many pairs. The pairs are divided in short-distance and long-distance subsets. The long-distance subset is used to estimate the direction of the keypoint while the short-distance subset is used to build binary descriptor after rotating the sampling pattern. Overall, BRISK requires significantly more computation and slightly more storage space than either BRIEF or ORB. Similarly, Alahi et al. proposed \"Fast Retina Keypoint (FREAK)\" descriptor \\cite{alahi_freak:_2012}. It is inspired by the human visual system and more precisely the retina. A cascade of binary strings is computed by efficiently comparing image intensities over a retinal sampling pattern. FREAK requires lower storage space and shows more robust than BRISK.\n\n\n% ===================================================================================================\n\\subsection{Keypoint Matching}\nThe next process in keypoint matching is matching the nearest keypoint from the input keypoint to stored database. \n\n  asdf\n\n\n\n다음 방법은 matching data structure를 효율적으로 설계하여 nearest neighbor match를 빠르게 수행하도록 하고 있다. 기존의 brute force matching 방법은 query image의 모든 keypoint들을  reference image의 모든 keypoint들과 비교하는 방식으로 가장 속도가 오래 걸리지만, 가장 정확한 nearest neighbor를 검출할 수 있다는 장점이 있다. \n\n\\subsubsection{Partitioning Trees}\n\\cite{beis_shape_1997}에서는 kD tree 기반의 approximation 방법이 제안되었다. 이 방법은 특징의 차원이 비교적 적은 SIFT나 SURF와 같은  vector-value description 방식에서는 좋은 성능을 보여주지만, 최근에 사용되는 binary descriptor에서는 dimension이 높아 성능향상을 기대하기 어렵다는 문제가 있다. 또한, Random Forest\\cite{lepetit_keypoint_2006} 또는 Random Fern \\cite{ozuysal_fast_2010}은 Binary Description 방식을 Tree 구조 또는 List 구조에 적용하여 matching structure를 구성하였다. 이러한 매칭 방식들은 인식의 속도를 향상시키고, 좀 더 정확한 approximation 값을 얻기 위하여 일반적으로 offline training 단계에서 계산된 descriptor들을 이용하여 추가의 연산을 적용하여 효율적인 matching structure를 생성한다. 하지만, 이러한 방법들을 사용한 추가적인 구조체가 상당히 복잡하고 용량이 크기 때문에 모바일 환경에서 사용하기에 매칭 구조체가 과도하게 무거워진다는 문제점이 존재한다.\n\n\\subsubsection{Hashing}\n가장 많이 알려진 Hashing 기반의 Nearest Neighbor 검색 기법은 Locality Sensitive Hashing\\cite{andoni_near-optimal_2006}이다. 이 방법은 많은 수의 해쉬 함수를 이용하여 특징점을 저장하고, 같은 bucket에 저장된 특징점에 한하여 Linear Search를 수행하기 때문에 비교 연산의 횟수를 $O(N)$에서 $O(k)$로 감소시키는 장점이 있다. LSH\\cite{gionis_similarity_1999}와 같은 Hashing 기반의 structure를 이용하여 matching 을 가속화하는 방법도 제안되었다\\cite{rublee_orb:_2011}. 이러한 방법은 offline training 단계에서 적절히 특징점들이 고르게 분포하도록 적절한 hash function set을 구성하는 것이 중요하다.\n\\subsubsection{Nearest Neighbor Graph Techniques}\n\\subsubsection{Automatic Configuration of NN Algorithms}\n\n\n%======================================================================================================\n\\subsection{Keypoint Filtering}\n학습 과정에서 특징점을 평가하여 저장하는 특징점 필터링 방식은 활발하게 연구되지는 않았다. 이러한 기법은 일반적으로 특징점 검출 알고리즘에서 수행되었다. \n\\subsubsection{Thresholding}\nHarris score 나 Hessian score 등을 이용하여 특징점의 강인한 검출 정도를 측정하여 필터하는 방법이 사용되었다.\n\\subsubsection{Non-maximum Suppression}\nSpatial relation을 고려하여 non-maximum suppression이 수행되었다.\n\\subsubsection{Distictiveness}\n특징점의 distictiveness를 고려한 필터방법이 몇가지 제안되었다.\n\n\\begin{table*}[t]\n  \\caption{Keypointbased Image Matching Systems}\n  \\label{tab:1}\n  \\centering\n  % \\begin{tabular}{l l l l}\n  \\begin{tabularx}{\\textwidth}{lllll}\n  	\\hline\n    Reference 					& Detector 		& Descriptor 		& Matching & Comments \\\\\n    \\hline\n    Bleser and Stricker (2008)\\cite{bleser_advanced_2008} 	& FAST 			& patch, warped 	&  & 	\\\\\n        Carrera et al. (2007)\\cite{carrera_robust_2007}     & Harris    & SURF        &    & \\\\\n    Chekhlov et al. (2007)\\cite{chekhlov_robust_2007}     & Shi-Tomasi  & SIFT-like     &    &  \\\\\n    Cheng et al. (2006)\\cite{cheng_visual_2006}     & Harris    & patch       &      & \\\\\n    Davison et al. (2007)\\cite{davison_monoslam:_2007}    & Shi-Tomasi  & patch, warped   &    & \\\\\n    DiVerdi et al. (2008)\\cite{diverdi_envisor:_2008}   & Shi-Tomasi  & Optical flow \\& SURF    &  &  \\\\\n    Eade and Drummond (2006)\\cite{eade_scalable_2006} & FAST      & patch, warped   &   & \\\\\n    Klein and Murray (2007)\\cite{klein_parallel_2007}   & FAST      & patch, warped   &    & \\\\\n    Lee and H\\\"{o}llerer (2008)\\cite{lee_hybrid_2008} & DoG     & Optical flow \\& SIFT &    & \\\\\n    Lepetit and Fua (2006)\\cite{lepetit_keypoint_2006}    &         & Randomized Trees  & Randomized Trees   &  \\\\\n    Muja and Lowe (2012)\\cite{muja_fast_2012}   & DoG     & SIFT        & FLANN    & \\\\\n    Nist\\'{e}r et al. (2004)\\cite{nister_visual_2004} & Harris    & patch       &   & \\\\\n    \\\"{O}zuysal et al. (2007)\\cite{ozuysal_fast_2007} &         & Ferns       & Ferns   & \\\\\n    Park et al. (2008)\\cite{park_multiple_2008}   &         & Ferns       & Ferns    & \\\\\n    Se et al. (2002)\\cite{se_mobile_2002}   & DoG     & scale, orientation &     & \\\\\n    Skrypnyk and Lowe (2004)\\cite{skrypnyk_scene_2004}  & DoG     & SIFT        & kD Tree  &  \\\\\n    Taylor et al. (2009)\\cite{taylor_robust_2009}   & FAST      & trained histograms &    & \\\\\n    Wagner et al. (2009)\\cite{wagner_multiple_2009}   & FAST      & patch \\& reduced SIFT &   & \\\\\n    Wagner et al. (2010)\\cite{wagner_real-time_2010}    & FAST      & patch, warped   &   & \\\\\n    Wiliams et al. (2007)\\cite{williams_real-time_2007}   & FAST      & Randomized lists  &    & \\\\\n\n    \\hline\n    \\end{tabularx}\n  % \\end{tabular}\n\\end{table*}\n",
+			"3d rotation",
+			"tabular",
+			"table",
+			"tabular"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "3_proposed/proposed.tex",
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.latex_log":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Jonghoon_Seo/Google 드라이브/[KIST]/paper/sublime_project_windows.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}
